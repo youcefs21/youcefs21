@@ -11,7 +11,7 @@ Hi there! My name is Youcef, and I'm a first year computer science student at Mc
 
 ## Statistics:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=youcefs21&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=youcefs21)
 
 
 
