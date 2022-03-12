@@ -6,8 +6,8 @@ Hi there! My name is Youcef, and I'm a first year computer science student at Mc
 
 - 🎓 I'm a first year computer science student at McMaster University
 - 🔭 I'm always excited to learn new things about mathematics and computing. 
-<!-- - 🌱 I’m currently learning RESTful Web APIs and Flask -->
 - ⚡ Fun fact: I ice skate as a hobby 
+<!-- - 🌱 I’m currently learning RESTful Web APIs and Flask -->
 
 ## Statistics:
 
