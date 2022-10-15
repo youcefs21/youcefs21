@@ -4,10 +4,10 @@ Hi there! My name is Youcef, and I'm a first year computer science student at Mc
 
 ## Summary:
 
-- 🎓 I'm a first year computer science student at McMaster University
+- 🎓 I'm a second year computer science student at McMaster University
 - 🔭 I'm always excited to learn new things about mathematics and computing. 
 - ⚡ Fun fact: I ice skate as a hobby 
-- 🌱 I’m currently learning test automation in python
+- 🌱 I’m currently full stack web development
 
 ### What I code with
 #### Languages
