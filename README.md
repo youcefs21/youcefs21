@@ -6,15 +6,17 @@ Hi there! My name is Youcef, and I'm a first year computer science student at Mc
 
 - 🎓 I'm a second year computer science student at McMaster University
 - 🔭 I'm always excited to learn new things about mathematics and computing. 
+- 🌱 I’m currently learning full stack web development
 - ⚡ Fun fact: I ice skate as a hobby 
-- 🌱 I’m currently full stack web development
+
 
 ### What I code with
 #### Languages
 <p>
     <img alt="python" src="https://img.shields.io/badge/-python-306998?style=flat-square&logo=python&logoColor=white" />
     <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-e0b428?style=flat-square&logo=Javascript&logoColor=white" />
-    <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-0ea5e9?style=flat-square&logo=Typescript&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=white" />
     <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" />
     <img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?style=flat-square&logo=GNU-bash&logoColor=white" />
 </p>
