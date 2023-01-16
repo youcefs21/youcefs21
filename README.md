@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Hi there! My name is Youcef, and I'm a first year computer science student at McMaster.
+Hi there! My name is Youcef, and I'm a second year computer science student at McMaster.
 
 ## Summary:
 
