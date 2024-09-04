@@ -1,12 +1,12 @@
 # Hi there 👋
 
-Hi there! My name is Youcef, and I'm a second year computer science student at McMaster.
+Hi there! My name is Youcef, and I'm a forth year computer science student at McMaster.
 
 ## Summary:
 
 - 🎓 I'm a second year computer science student at McMaster University
 - 🔭 I'm always excited to learn new things about mathematics and computing. 
-- 🌱 I’m currently learning full stack web development
+- 🌱 I’m currently embeded programing.
 - ⚡ Give me a problem, a week, and I'll probably have a solution.
 
 
@@ -34,12 +34,6 @@ Hi there! My name is Youcef, and I'm a second year computer science student at M
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088AA?style=flat-square&logo=github-actions&logoColor=white" />
 
 </p>
-
-
-## Statistics:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=youcefs21&theme=tokyonight" />
-
 
 <!---
 youcefs21/youcefs21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
