@@ -4,18 +4,16 @@ Hi there! My name is Youcef, and I'm a forth year computer science student at Mc
 
 ## Summary:
 
-- 🎓 I'm a second year computer science student at McMaster University
-- 🔭 I'm always excited to learn new things about mathematics and computing. 
-- 🌱 I’m currently embeded programing.
+- 🎓 I'm a forth year computer science student at McMaster University
+- 🔭 I'm always excited to learn new things about technology and computing. 
 - ⚡ Give me a problem, a week, and I'll probably have a solution.
 
 
 ### What I code with
 #### Languages
 <p>
-    <img alt="python" src="https://img.shields.io/badge/-python-306998?style=flat-square&logo=python&logoColor=white" />
-    <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-e0b428?style=flat-square&logo=Javascript&logoColor=white" />
     <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-0ea5e9?style=flat-square&logo=Typescript&logoColor=white" />
+    <img alt="python" src="https://img.shields.io/badge/-python-306998?style=flat-square&logo=python&logoColor=white" />
     <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=Java&logoColor=white" />
     <img alt="Haskell" src="https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" />
     <img alt="bash" src="https://img.shields.io/badge/-bash-4EAA25?style=flat-square&logo=GNU-bash&logoColor=white" />
@@ -32,7 +30,6 @@ Hi there! My name is Youcef, and I'm a forth year computer science student at Mc
 <p>
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088AA?style=flat-square&logo=github-actions&logoColor=white" />
-
 </p>
 
 <!---
